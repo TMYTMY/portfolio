@@ -1,2 +1,3 @@
-# web-scrape
-web scrape practice
+# portfolio
+Web scrape practice
+Kaggle - Titanic: Machine Learning from Disaster
